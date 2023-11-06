@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/drawable_launch_background.xml.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-hdpi_app_icon1.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-hdpi/app_icon1.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xhdpi_app_icon2.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xhdpi/app_icon2.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/drawable-v21_launch_background.xml.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xxhdpi_app_icon2.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xxhdpi/app_icon2.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-mdpi_app_icon1.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-mdpi/app_icon1.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-mdpi_app_icon2.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-mdpi/app_icon2.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xxhdpi_app_icon1.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xxhdpi/app_icon1.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xxxhdpi_app_icon2.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xxxhdpi/app_icon2.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xhdpi_app_icon1.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xhdpi/app_icon1.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-hdpi_app_icon2.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-hdpi/app_icon2.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/drawable_ic_app.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/drawable/ic_app.png"
+    },
+    {
+        "merged": "com.expresspay.sample.expresspay_sample.app-merged_res-41:/mipmap-xxxhdpi_app_icon1.png.flat",
+        "source": "com.expresspay.sample.expresspay_sample.app-main-35:/mipmap-xxxhdpi/app_icon1.png"
+    }
+]

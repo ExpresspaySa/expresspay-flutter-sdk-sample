@@ -4,3 +4,8 @@ Credentials.dart
 .dart_tool/package_config_subset
 .dart_tool/version
 .dart_tool
+android/.idea/compiler.xml
+android/.idea/gradle.xml
+android/.idea/jarRepositories.xml
+android/.idea/misc.xml
+android/.idea/vcs.xml

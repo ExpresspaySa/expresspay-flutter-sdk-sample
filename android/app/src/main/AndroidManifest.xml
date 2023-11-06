@@ -3,7 +3,7 @@
    <application
         android:label="expresspay_sample"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/app_icon2">
         <activity
             android:name=".MainActivity"
             android:exported="true"
