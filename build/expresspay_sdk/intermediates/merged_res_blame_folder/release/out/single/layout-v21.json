@@ -1,18 +1,18 @@
 [
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/layout-v21/notification_template_icon_group.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/layout-v21/notification_template_icon_group.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/layout-v21/notification_template_custom_big.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/layout-v21/notification_action.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/layout-v21/notification_template_custom_big.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/layout-v21/notification_action_tombstone.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/layout-v21/notification_action_tombstone.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/layout-v21/notification_action.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/layout-v21/notification_action.xml"
     }
 ]

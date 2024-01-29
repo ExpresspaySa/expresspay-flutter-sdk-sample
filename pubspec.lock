@@ -100,10 +100,11 @@ packages:
   expresspay_sdk:
     dependency: "direct main"
     description:
-      path: "../expresspay-flutter-sdk"
-      relative: true
-    source: path
-    version: "2.0.8"
+      name: expresspay_sdk
+      sha256: caa02b320fb8faa1289f9c71525ebfcbaa31a95c71ba0b6d51d892d6b0bec202
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.0"
   fake_async:
     dependency: transitive
     description:

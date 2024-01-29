@@ -19,6 +19,10 @@ allprojects {
             url 'https://jitpack.io'
             credentials { username 'jp_tjnosefflebgig8l3i0q6cgf09' }
         }
+
+        maven {
+            url uri('/Volumes/Data/Projects/local-maven-repo') // Adjust the path as needed
+        }
     }
 }
 

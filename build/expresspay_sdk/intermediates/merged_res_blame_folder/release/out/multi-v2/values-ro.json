@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.expresspay.fluttersdk.expresspay_sdk-mergeReleaseResources-36:/values-ro/values-ro.xml",
+            "outputFile": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/zik/.gradle/caches/transforms-3/dc9476a602b5d3ba85354d84722e4f01/transformed/appcompat-1.6.1/res/values-ro/values-ro.xml",
@@ -76,7 +76,7 @@
             ]
         },
         {
-            "outputFile": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/values-ro/values-ro.xml",
+            "outputFile": "com.expresspay.fluttersdk.expresspay_sdk-mergeReleaseResources-38:/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/zik/.gradle/caches/transforms-3/dc9476a602b5d3ba85354d84722e4f01/transformed/appcompat-1.6.1/res/values-ro/values-ro.xml",

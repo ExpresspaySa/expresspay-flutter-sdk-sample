@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="16"
-6-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk/android/src/main/AndroidManifest.xml
+6-->/Users/zik/.pub-cache/hosted/pub.dev/expresspay_sdk-2.1.0/android/src/main/AndroidManifest.xml
 7        android:targetSdkVersion="16" />
-7-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk/android/src/main/AndroidManifest.xml
+7-->/Users/zik/.pub-cache/hosted/pub.dev/expresspay_sdk-2.1.0/android/src/main/AndroidManifest.xml
 8
 9</manifest>

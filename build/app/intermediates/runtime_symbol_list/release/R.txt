@@ -3512,13 +3512,10 @@ int layout select_dialog_item_material 0x7f0c006c
 int layout select_dialog_multichoice_material 0x7f0c006d
 int layout select_dialog_singlechoice_material 0x7f0c006e
 int layout support_simple_spinner_dropdown_item 0x7f0c006f
-int mipmap _ic_launcher 0x7f0e0000
-int mipmap _ic_launcher_foreground 0x7f0e0001
-int mipmap _ic_launcher_round 0x7f0e0002
-int mipmap app_icon 0x7f0e0003
-int mipmap app_icon1 0x7f0e0004
-int mipmap app_icon2 0x7f0e0005
-int mipmap ic_launcher 0x7f0e0006
+int mipmap app_icon 0x7f0e0000
+int mipmap app_icon1 0x7f0e0001
+int mipmap app_icon2 0x7f0e0002
+int mipmap ic_launcher 0x7f0e0003
 int plurals mtrl_badge_content_description 0x7f0f0000
 int string abc_action_bar_home_description 0x7f100000
 int string abc_action_bar_up_description 0x7f100001

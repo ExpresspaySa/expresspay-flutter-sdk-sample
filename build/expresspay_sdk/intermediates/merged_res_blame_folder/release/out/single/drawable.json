@@ -1,614 +1,614 @@
 [
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_clear_black_24.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_clear_black_24.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_btn_radio_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/notification_tile_bg.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_tab_indicator_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_checked_unchecked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_checked_unchecked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_amex.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_amex.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_go_search_api_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ratingbar_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_unchecked_checked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_unchecked_checked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_mtrl_chip_checked_black.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_mtrl_chip_checked_black.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_ic_error.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_error.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_seekbar_track_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_amex.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_amex.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_mtrl_chip_checked_circle.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_mtrl_chip_checked_circle.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/design_password_eye.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_password_eye.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_search_api_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_btn_radio_material_anim.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_radio_material_anim.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_maestro.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_maestro.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_list_divider_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_divider_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/notification_bg_low.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_mastercard.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_mastercard.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_unchecked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_unchecked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/m3_tabs_line_indicator.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_tabs_line_indicator.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_icon.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/m3_tabs_rounded_line_indicator.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_tabs_rounded_line_indicator.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/material_ic_menu_arrow_down_black_24dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_unchecked_pressed.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_unchecked_pressed.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/powered_by_logo.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/powered_by_logo.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_popupmenu_background.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_popupmenu_background.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_track_decoration.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_track_decoration.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/avd_hide_password.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/avd_hide_password.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/m3_popupmenu_background_overlay.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_popupmenu_background_overlay.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_seekbar_thumb_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/notification_bg.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_ic_cancel.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_cancel.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_item_background_holo_light.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/m3_password_eye.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_password_eye.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_btn_borderless_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_ic_arrow_drop_up.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_arrow_drop_up.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_edit_text_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_btn_check_material_anim.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_check_material_anim.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_keyboard_black_24dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_keyboard_black_24dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/material_ic_menu_arrow_up_black_24dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_menu_arrow_up_black_24dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_checked_pressed.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_checked_pressed.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_generic.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_generic.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_cab_background_internal_bg.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_arrow_back_black_24.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_arrow_back_black_24.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/btn_radio_on_mtrl.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_radio_on_mtrl.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/m3_avd_show_password.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_avd_show_password.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_ic_checkbox_unchecked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_checkbox_unchecked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/design_fab_background.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_dialog_material_background.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_dialog_background.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_dialog_background.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_btn_colored_material.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_btn_colored_material.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_navigation_bar_item_background.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_navigation_bar_item_background.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/m3_password_eye.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_password_eye.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/avd_show_password.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/avd_show_password.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_mada.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_mada.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/m3_avd_hide_password.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_avd_hide_password.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/btn_checkbox_unchecked_mtrl.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_checkbox_unchecked_mtrl.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_jcb.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_jcb.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_clear_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_dropdown_arrow.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_dropdown_arrow.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/pci_dss_compliant.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/pci_dss_compliant.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_switch_thumb_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_search_black_24.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_search_black_24.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_generic.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_generic.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_btn_check_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_ic_arrow_drop_down.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_arrow_drop_down.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_visa.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_visa.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_tabs_default_indicator.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_tabs_default_indicator.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_ic_check_mark.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_check_mark.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_unionpay.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_unionpay.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ratingbar_small_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_text_cursor_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_pressed.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_pressed.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/btn_radio_off_mtrl.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_radio_off_mtrl.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_list_selector_holo_dark.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_m3_chip_close.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_m3_chip_close.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_vector_test.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-appcompat-resources-1.6.1-32:/drawable/abc_vector_test.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_textfield_search_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_mastercard.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_mastercard.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_mtrl_checked_circle.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_mtrl_checked_circle.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_jcb.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_jcb.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_star_black_48dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_star_black_48dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_mada.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_mada.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_mtrl_chip_close_circle.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_mtrl_chip_close_circle.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/design_ic_visibility_off.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_maestro.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_maestro.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_m3_chip_check.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_m3_chip_check.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/test_level_drawable.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/test_level_drawable.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_checked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_checked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_pressed_checked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_pressed_checked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_discover.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_discover.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_bottomsheet_drag_handle.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_bottomsheet_drag_handle.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/notification_icon_background.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_visa.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_visa.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/tooltip_frame_light.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/tooltip_frame_light.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_m3_chip_checked_circle.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_m3_chip_checked_circle.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_diners.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_diners.png"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_ab_back_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/material_cursor_drawable.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_cursor_drawable.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_ic_checkbox_checked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_checkbox_checked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/material_ic_calendar_black_24dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_calendar_black_24dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_cab_background_top_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/tooltip_frame_dark.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/tooltip_frame_dark.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/design_ic_visibility.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_ic_visibility.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/material_ic_clear_black_24dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_clear_black_24dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/btn_checkbox_checked_mtrl.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/btn_checkbox_checked_mtrl.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_checkbox_checked_mtrl.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_track.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_track.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/m3_avd_hide_password.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_avd_hide_password.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_ic_menu_share_mtrl_alpha.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_checked_unchecked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_checked_unchecked.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_edit_text_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_popupmenu_background_overlay.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_popupmenu_background_overlay.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/material_ic_calendar_black_24dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_calendar_black_24dp.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/background_diners.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/background_diners.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_star_half_black_48dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_star_half_black_48dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_unchecked_checked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_unchecked_checked.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/material_ic_edit_black_24dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_edit_black_24dp.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/navigation_empty_icon.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/m3_popupmenu_background_overlay.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/powered_by_logo.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/powered_by_logo.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_generic.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_generic.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/material_cursor_drawable.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_popupmenu_background.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_m3_chip_checked_circle.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_m3_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_checked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_checked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/navigation_empty_icon.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_item_background_holo_dark.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_item_background_holo_dark.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_btn_borderless_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_discover.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_discover.png"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_visa.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_visa.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/sign_strip.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/sign_strip.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/design_password_eye.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_password_eye.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb_pressed_unchecked.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_pressed_unchecked.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/material_ic_menu_arrow_down_black_24dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_pressed_checked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_pressed_checked.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/ic_clock_black_24dp.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_clock_black_24dp.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_icon.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_switch_thumb.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_textfield_search_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/mtrl_ic_indeterminate.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_indeterminate.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/logo_unionpay.png",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/drawable/logo_unionpay.png"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_clock_black_24dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_clock_black_24dp.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/abc_list_selector_holo_light.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/design_fab_background.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/material_ic_edit_black_24dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_dialog_material_background.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_unchecked_checked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_pressed.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_pressed.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_checked_unchecked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_visa.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_visa.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_jcb.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_jcb.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_btn_radio_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_m3_chip_check.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_m3_chip_check.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/design_ic_visibility.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_vector_test.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-appcompat-resources-1.6.1-32:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_switch_thumb_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/avd_hide_password.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_star_half_black_48dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_star_half_black_48dp.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_mada.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_mada.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_ic_cancel.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_search_black_24.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_search_black_24.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_navigation_bar_item_background.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_navigation_bar_item_background.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_ic_arrow_drop_down.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_dropdown_arrow.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_unchecked_pressed.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_unchecked_pressed.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_unchecked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_unchecked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_amex.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_amex.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/tooltip_frame_light.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_discover.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_discover.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_item_background_holo_light.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/test_level_drawable.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/test_level_drawable.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_clear_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/notification_bg_low.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_diners.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_diners.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_checked_pressed.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_checked_pressed.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_track_decoration.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_track_decoration.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_keyboard_black_24dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/notification_icon_background.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/notification_bg.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_ic_checkbox_checked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_checkbox_checked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_jcb.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_jcb.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_diners.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_diners.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_maestro.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_maestro.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_mastercard.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_mastercard.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_seekbar_track_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_btn_check_material_anim.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_dialog_background.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/pci_dss_compliant.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/pci_dss_compliant.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_arrow_back_black_24.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_arrow_back_black_24.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_tab_indicator_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_unionpay.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_unionpay.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_mtrl_checked_circle.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_track.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_track.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/btn_radio_off_mtrl.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_ic_checkbox_unchecked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_checkbox_unchecked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_ab_back_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_amex.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_amex.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/sign_strip.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/sign_strip.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_unionpay.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_unionpay.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_bottomsheet_drag_handle.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_bottomsheet_drag_handle.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_ic_indeterminate.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_indeterminate.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_m3_chip_close.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_m3_chip_close.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/material_ic_menu_arrow_up_black_24dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_menu_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ratingbar_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_generic.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_generic.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/notification_tile_bg.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-core-1.9.0-18:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_mastercard.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_mastercard.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_checked_unchecked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/m3_tabs_rounded_line_indicator.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_tabs_rounded_line_indicator.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_text_cursor_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/design_snackbar_background.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_list_divider_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_btn_check_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/m3_avd_show_password.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_avd_show_password.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_popupmenu_background_overlay.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/material_ic_clear_black_24dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_ic_error.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_ic_check_mark.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_check_mark.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/design_ic_visibility_off.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/m3_tabs_line_indicator.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/m3_tabs_line_indicator.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_star_black_48dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_item_background_holo_dark.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/avd_show_password.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_unchecked_checked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_discover.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_discover.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_cab_background_top_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ratingbar_small_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_ic_arrow_drop_up.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_menu_share_mtrl_alpha.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/btn_radio_on_mtrl.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/tooltip_frame_dark.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/ic_clear_black_24.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/ic_clear_black_24.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_list_selector_holo_light.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/drawable/design_snackbar_background.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/design_snackbar_background.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/mtrl_switch_thumb_pressed_unchecked.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/drawable/mtrl_switch_thumb_pressed_unchecked.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/logo_mada.png",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/logo_mada.png"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/abc_ic_search_api_material.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-appcompat-1.6.1-29:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/drawable/background_maestro.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-12:/drawable/background_maestro.xml"
     }
 ]

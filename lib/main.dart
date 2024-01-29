@@ -1,14 +1,13 @@
 
 import 'dart:io';
-import 'dart:math';
 
-import 'package:expresspay_sample/Credentials.dart';
 import 'package:expresspay_sample/actions/capture_page.dart';
 import 'package:expresspay_sample/actions/get_transaction_detail_page.dart';
 import 'package:expresspay_sample/actions/sale_page.dart';
 import 'package:expresspay_sample/transaction-storage.dart';
 import 'package:expresspay_sdk/expresspay_sdk.dart';
 import 'package:flutter/material.dart';
+import 'Credentials.dart';
 import 'actions/credit_void_page.dart';
 import 'actions/get_transaction_status_page.dart';
 import 'actions/recurring_sale_page.dart';

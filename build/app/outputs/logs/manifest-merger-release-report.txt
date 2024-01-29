@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:3:4-33:19
-MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:10:5-30:19
-MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:10:5-30:19
+INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:4:5-34:19
+MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:10:5-30:19
+MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:10:5-30:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.material:material:1.8.0] /Users/zik/.gradle/caches/transforms-3/8227a840a1ec88e56dd9ed198fd96794/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
@@ -22,26 +22,26 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zik/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/zik/.gradle/caches/transforms-3/86921c9a8ae0d631920d76ee80dd5b5f/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:11:9-35
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:4:9-42
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:5:9-42
 	tools:targetApi
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:13:9-29
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:13:9-29
 	android:icon
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:6:9-41
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:7:9-41
 	android:theme
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:12:9-58
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:12:9-58
 	android:name
 		INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:5:9-42
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:6:9-42
 manifest
-ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
 MERGED from [:shared_preferences_android] /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:expresspay_sdk] /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/build/expresspay_sdk/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:2:1-32:12
+MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/6e8726a3d31a9bba77dc036af377147b/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/zik/.gradle/caches/transforms-3/2f3d64966217cfdd0f99b15289cb6b7d/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
@@ -93,23 +93,27 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/zik/.gradle/caches/tr
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zik/.gradle/caches/transforms-3/f5aefefc1143c26f250b953dc308bc4f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zik/.gradle/caches/transforms-3/3dc435887fc2177a5ad99feaf14dbc41/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/zik/.gradle/caches/transforms-3/08b0d5685293ecba589478a35e0e8760/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
 	package
 		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:2:5-54
 		INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
 		INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:1-35:12
 		INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:3:22-64
 uses-sdk
 INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
@@ -118,8 +122,8 @@ MERGED from [:shared_preferences_android] /Volumes/Data/Projects/Expresspay/Flut
 MERGED from [:shared_preferences_android] /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:expresspay_sdk] /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/build/expresspay_sdk/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:expresspay_sdk] /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/build/expresspay_sdk/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/6e8726a3d31a9bba77dc036af377147b/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/6e8726a3d31a9bba77dc036af377147b/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
@@ -233,73 +237,73 @@ INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-s
 		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml
 activity#com.expresspay.sample.expresspay_sample.MainActivity
-ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:7:9-27:20
+ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:8:9-28:20
 	android:launchMode
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:10:13-43
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:11:13-43
 	android:hardwareAccelerated
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:13:13-47
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:14:13-47
 	android:windowSoftInputMode
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:14:13-55
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:15:13-55
 	android:exported
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:9:13-36
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:10:13-36
 	android:configChanges
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:12:13-163
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:13:13-163
 	android:theme
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:11:13-47
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:12:13-47
 	android:name
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:8:13-41
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:9:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:19:13-22:17
+ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:20:13-23:17
 	android:resource
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:21:15-52
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:22:15-52
 	android:name
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:20:15-70
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:21:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:23:13-26:29
+ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:24:17-68
+ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:25:17-68
 	android:name
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:24:25-66
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:25:17-76
+ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:26:17-76
 	android:name
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:26:27-74
 meta-data#flutterEmbedding
-ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:30:9-32:33
+ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:31:9-33:33
 	android:value
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:32:13-30
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:33:13-30
 	android:name
-		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:31:13-44
+		ADDED from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:32:13-44
 activity#com.expresspay.sdk.ExpressPayHomeActivity_
-ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:14:9-17:20
+ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:14:9-17:20
 	android:label
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:16:13-37
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:15:13-70
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:15:13-70
 activity#com.expresspay.sdk.views.expresscardpay.ExpressCardPayActivity
-ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:18:9-21:52
+ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:18:9-21:52
 	android:screenOrientation
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:21:13-49
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:21:13-49
 	android:label
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:20:13-45
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:20:13-45
 	android:name
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:19:13-90
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:19:13-90
 activity#com.expresspay.sdk.views.expresscardpay.ExpressCardDetailsActivity
-ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:22:9-25:52
+ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:22:9-25:52
 	android:screenOrientation
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:25:13-49
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:25:13-49
 	android:label
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:24:13-45
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:24:13-45
 	android:name
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:23:13-94
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:23:13-94
 activity#com.expresspay.sdk.views.expresscardpay.ExpresspaySaleWebRedirectActivity
-ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:26:9-29:52
+ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:26:9-29:52
 	android:screenOrientation
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:29:13-49
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:29:13-49
 	android:label
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:28:13-46
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:28:13-46
 	android:name
-		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:27:13-101
+		ADDED from [com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:27:13-101
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required

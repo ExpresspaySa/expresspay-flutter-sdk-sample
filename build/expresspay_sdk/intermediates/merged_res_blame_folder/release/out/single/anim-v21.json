@@ -1,38 +1,38 @@
 [
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/m3_bottom_sheet_slide_out.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/m3_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/fragment_fast_out_extra_slow_in.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-fragment-1.5.5-27:/anim-v21/fragment_fast_out_extra_slow_in.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/m3_side_sheet_slide_in.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/m3_side_sheet_slide_in.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/m3_bottom_sheet_slide_out.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/m3_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/m3_bottom_sheet_slide_in.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/m3_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/m3_side_sheet_slide_out.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/m3_side_sheet_slide_out.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/m3_side_sheet_slide_out.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/m3_bottom_sheet_slide_in.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/m3_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/m3_side_sheet_slide_in.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/m3_side_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
         "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-40:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
     }
 ]

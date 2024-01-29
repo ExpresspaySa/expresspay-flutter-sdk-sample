@@ -360,9 +360,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT@aar"
-      jars="/Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/jars/classes.jar"
+      jars="/Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/jars/classes.jar"
       resolved="com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT"
-      folder="/Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT"
+      folder="/Users/zik/.gradle/caches/transforms-3/6dd024e113b6af30b7cdf84272bdd608/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

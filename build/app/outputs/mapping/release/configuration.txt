@@ -127,6 +127,9 @@
 -dontwarn android.**
 
 # End of content from /Volumes/Data/SDK/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
+# The proguard configuration file for the following section is /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/proguard-rules.pro
+-keep class com.expresspay.sdk.model.**.**{ *; }
+# End of content from /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/proguard-rules.pro
 # The proguard configuration file for the following section is /Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }

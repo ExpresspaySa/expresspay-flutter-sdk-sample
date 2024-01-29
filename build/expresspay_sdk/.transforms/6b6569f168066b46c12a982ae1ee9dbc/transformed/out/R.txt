@@ -314,9 +314,6 @@ int layout notification_template_custom_big 0x0
 int layout notification_template_icon_group 0x0
 int layout notification_template_part_chronometer 0x0
 int layout notification_template_part_time 0x0
-int mipmap _ic_launcher 0x0
-int mipmap _ic_launcher_foreground 0x0
-int mipmap _ic_launcher_round 0x0
 int string app_name 0x0
 int string area_code_phone_mask 0x0
 int string cancel 0x0

@@ -315,9 +315,6 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
-mipmap _ic_launcher
-mipmap _ic_launcher_foreground
-mipmap _ic_launcher_round
 string app_name
 string area_code_phone_mask
 string cancel

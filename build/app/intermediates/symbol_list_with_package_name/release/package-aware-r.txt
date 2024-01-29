@@ -3513,9 +3513,6 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
-mipmap _ic_launcher
-mipmap _ic_launcher_foreground
-mipmap _ic_launcher_round
 mipmap app_icon
 mipmap app_icon1
 mipmap app_icon2

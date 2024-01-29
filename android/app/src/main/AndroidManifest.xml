@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.expresspay.sample.expresspay_sample">
-   <application
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
         android:label="expresspay_sample"
         android:name="${applicationName}"
         android:icon="@mipmap/app_icon2">
