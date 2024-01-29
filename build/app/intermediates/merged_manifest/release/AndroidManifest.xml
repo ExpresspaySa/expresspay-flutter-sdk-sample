@@ -17,7 +17,6 @@
     <application
         android:name="android.app.Application"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-        android:debuggable="true"
         android:icon="@mipmap/app_icon2"
         android:label="expresspay_sample"
         android:supportsRtl="true"

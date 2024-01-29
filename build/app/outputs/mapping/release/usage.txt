@@ -17780,6 +17780,7 @@ com.google.errorprone.annotations.concurrent.LazyInit
 com.google.errorprone.annotations.concurrent.LockMethod
 com.google.errorprone.annotations.concurrent.UnlockMethod
 com.google.gson.FieldAttributes:
+    java.lang.Object get(java.lang.Object)
     public java.lang.annotation.Annotation getAnnotation(java.lang.Class)
     public java.util.Collection getAnnotations()
     public java.lang.Class getDeclaredClass()
@@ -17787,6 +17788,7 @@ com.google.gson.FieldAttributes:
     public java.lang.Class getDeclaringClass()
     public java.lang.String getName()
     public boolean hasModifier(int)
+    boolean isSynthetic()
 com.google.gson.Gson:
     static final boolean DEFAULT_COMPLEX_MAP_KEYS
     static final boolean DEFAULT_ESCAPE_HTML
@@ -17799,9 +17801,6 @@ com.google.gson.Gson:
     private static final java.lang.String JSON_NON_EXECUTABLE_PREFIX
     public com.google.gson.internal.Excluder excluder()
     public com.google.gson.FieldNamingStrategy fieldNamingStrategy()
-    public java.lang.Object fromJson(com.google.gson.stream.JsonReader,java.lang.reflect.Type)
-    public java.lang.Object fromJson(java.io.Reader,java.lang.reflect.Type)
-    public java.lang.Object fromJson(java.lang.String,java.lang.reflect.Type)
     public boolean htmlSafe()
     public com.google.gson.GsonBuilder newBuilder()
     public boolean serializeNulls()
@@ -17809,7 +17808,6 @@ com.google.gson.Gson:
 com.google.gson.GsonBuilder:
     void <init>(com.google.gson.Gson)
     public com.google.gson.GsonBuilder addDeserializationExclusionStrategy(com.google.gson.ExclusionStrategy)
-    public com.google.gson.GsonBuilder addReflectionAccessFilter(com.google.gson.ReflectionAccessFilter)
     public com.google.gson.GsonBuilder addSerializationExclusionStrategy(com.google.gson.ExclusionStrategy)
     public com.google.gson.GsonBuilder disableHtmlEscaping()
     public com.google.gson.GsonBuilder disableInnerClassSerialization()
@@ -17839,7 +17837,6 @@ com.google.gson.JsonArray:
     public void add(java.lang.Number)
     public void add(java.lang.String)
     public void addAll(com.google.gson.JsonArray)
-    public java.util.List asList()
     public boolean contains(com.google.gson.JsonElement)
     public com.google.gson.JsonArray deepCopy()
     public synthetic bridge com.google.gson.JsonElement deepCopy()
@@ -17884,13 +17881,11 @@ com.google.gson.JsonObject:
     public void addProperty(java.lang.String,java.lang.Character)
     public void addProperty(java.lang.String,java.lang.Number)
     public void addProperty(java.lang.String,java.lang.String)
-    public java.util.Map asMap()
     public synthetic bridge com.google.gson.JsonElement deepCopy()
     public com.google.gson.JsonObject deepCopy()
     public com.google.gson.JsonArray getAsJsonArray(java.lang.String)
     public com.google.gson.JsonObject getAsJsonObject(java.lang.String)
     public com.google.gson.JsonPrimitive getAsJsonPrimitive(java.lang.String)
-    public boolean isEmpty()
     public java.util.Set keySet()
     public com.google.gson.JsonElement remove(java.lang.String)
     public int size()
@@ -17919,32 +17914,22 @@ com.google.gson.LongSerializationPolicy$2:
     public com.google.gson.JsonElement serialize(java.lang.Long)
 com.google.gson.LongSerializationPolicy:
     public abstract com.google.gson.JsonElement serialize(java.lang.Long)
-com.google.gson.ReflectionAccessFilter$1
-com.google.gson.ReflectionAccessFilter$2
-com.google.gson.ReflectionAccessFilter$3
-com.google.gson.ReflectionAccessFilter$4
-com.google.gson.ReflectionAccessFilter:
-    public static final com.google.gson.ReflectionAccessFilter BLOCK_ALL_ANDROID
-    public static final com.google.gson.ReflectionAccessFilter BLOCK_ALL_JAVA
-    public static final com.google.gson.ReflectionAccessFilter BLOCK_ALL_PLATFORM
-    public static final com.google.gson.ReflectionAccessFilter BLOCK_INACCESSIBLE_JAVA
-    static void <clinit>()
 com.google.gson.TypeAdapter:
     public final java.lang.Object fromJson(java.io.Reader)
     public final java.lang.Object fromJson(java.lang.String)
     public final java.lang.Object fromJsonTree(com.google.gson.JsonElement)
     public final java.lang.String toJson(java.lang.Object)
     public final void toJson(java.io.Writer,java.lang.Object)
-com.google.gson.annotations.package-info
 com.google.gson.internal.$Gson$Preconditions:
     private void <init>()
-    public static java.lang.Object checkNotNull(java.lang.Object)
 com.google.gson.internal.$Gson$Types$GenericArrayTypeImpl:
     private static final long serialVersionUID
 com.google.gson.internal.$Gson$Types$ParameterizedTypeImpl:
     private static final long serialVersionUID
 com.google.gson.internal.$Gson$Types$WildcardTypeImpl:
     private static final long serialVersionUID
+com.google.gson.internal.$Gson$Types:
+    private void <init>()
 com.google.gson.internal.Excluder:
     private static final double IGNORE_VERSIONS
     public com.google.gson.internal.Excluder disableInnerClassSerialization()
@@ -17962,7 +17947,6 @@ com.google.gson.internal.LazilyParsedNumber:
 com.google.gson.internal.LinkedTreeMap:
     private void readObject(java.io.ObjectInputStream)
     private java.lang.Object writeReplace()
-com.google.gson.internal.NonNullElementWrapperList
 com.google.gson.internal.PreJava9DateFormatProvider:
     public void <init>()
     private static java.lang.String getDateFormatPattern(int)
@@ -17971,13 +17955,6 @@ com.google.gson.internal.Primitives:
     private void <init>()
     public static boolean isWrapperType(java.lang.reflect.Type)
     public static java.lang.Class unwrap(java.lang.Class)
-com.google.gson.internal.ReflectionAccessFilterHelper:
-    private void <init>()
-    public static boolean isAndroidType(java.lang.Class)
-    private static boolean isAndroidType(java.lang.String)
-    public static boolean isAnyPlatformType(java.lang.Class)
-    public static boolean isJavaType(java.lang.Class)
-    private static boolean isJavaType(java.lang.String)
 com.google.gson.internal.Streams:
     private void <init>()
 com.google.gson.internal.bind.DefaultDateTypeAdapter$DateType:
@@ -17988,8 +17965,7 @@ com.google.gson.internal.bind.DefaultDateTypeAdapter:
     private void <init>(com.google.gson.internal.bind.DefaultDateTypeAdapter$DateType,int)
     synthetic void <init>(com.google.gson.internal.bind.DefaultDateTypeAdapter$DateType,int,com.google.gson.internal.bind.DefaultDateTypeAdapter$1)
 com.google.gson.internal.bind.JsonTreeWriter:
-    public com.google.gson.stream.JsonWriter jsonValue(java.lang.String)
-    public com.google.gson.stream.JsonWriter value(float)
+    public com.google.gson.stream.JsonWriter value(double)
 com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl:
     public com.google.gson.JsonElement serialize(java.lang.Object)
     public com.google.gson.JsonElement serialize(java.lang.Object,java.lang.reflect.Type)
@@ -18012,12 +17988,10 @@ com.google.gson.internal.bind.util.ISO8601Utils:
     public static java.lang.String format(java.util.Date,boolean)
     public static java.lang.String format(java.util.Date,boolean,java.util.TimeZone)
     private static void padInt(java.lang.StringBuilder,int,int)
-com.google.gson.internal.package-info
 com.google.gson.internal.reflect.ReflectionHelper:
     private void <init>()
 com.google.gson.internal.sql.SqlTypesSupport:
     private void <init>()
-com.google.gson.package-info
 com.google.gson.reflect.TypeToken:
     private static varargs java.lang.AssertionError buildUnexpectedTypeError(java.lang.reflect.Type,java.lang.Class[])
     public static com.google.gson.reflect.TypeToken getArray(java.lang.reflect.Type)
@@ -18029,7 +18003,6 @@ com.google.gson.reflect.TypeToken:
     private static boolean isAssignableFrom(java.lang.reflect.Type,java.lang.reflect.ParameterizedType,java.util.Map)
     private static boolean matches(java.lang.reflect.Type,java.lang.reflect.Type,java.util.Map)
     private static boolean typeEquals(java.lang.reflect.ParameterizedType,java.lang.reflect.ParameterizedType,java.util.Map)
-com.google.gson.reflect.package-info
 com.google.gson.stream.JsonReader:
     static final int BUFFER_SIZE
     private static final long MIN_INCOMPLETE_INTEGER
@@ -18062,12 +18035,11 @@ com.google.gson.stream.JsonReader:
 com.google.gson.stream.JsonScope
 com.google.gson.stream.JsonWriter:
     public com.google.gson.stream.JsonWriter jsonValue(java.lang.String)
-    public com.google.gson.stream.JsonWriter value(float)
+    public com.google.gson.stream.JsonWriter value(double)
 com.google.gson.stream.MalformedJsonException:
     private static final long serialVersionUID
     public void <init>(java.lang.String,java.lang.Throwable)
     public void <init>(java.lang.Throwable)
-com.google.gson.stream.package-info
 io.flutter.BuildConfig
 io.flutter.FlutterInjector$Builder:
     public io.flutter.FlutterInjector$Builder setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
@@ -26718,9 +26690,6 @@ com.google.android.material.search.SearchViewAnimationHelper
 com.google.android.material.snackbar.BaseTransientBottomBar$Anchor
 com.google.android.material.snackbar.BaseTransientBottomBar:
     private com.google.android.material.snackbar.BaseTransientBottomBar$Anchor anchor
-com.google.gson.internal.$Gson$Types:
-    static final synthetic boolean $assertionsDisabled
-    private void <init>()
 com.google.gson.internal.LinkedTreeMap:
     static final synthetic boolean $assertionsDisabled
 io.flutter.Log:

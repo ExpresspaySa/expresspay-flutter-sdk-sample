@@ -535,9 +535,9 @@
       jars="/Users/zik/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.0.0/ab5a73fa2ccb4a36b0b5c69fe10b16d0255bcf8/okio-jvm-3.0.0.jar"
       resolved="com.squareup.okio:okio-jvm:3.0.0"/>
   <library
-      name="com.google.code.gson:gson:2.10.1@jar"
-      jars="/Users/zik/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10.1/b3add478d4382b78ea20b1671390a858002feb6c/gson-2.10.1.jar"
-      resolved="com.google.code.gson:gson:2.10.1"/>
+      name="com.google.code.gson:gson:2.9.0@jar"
+      jars="/Users/zik/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/8a1167e089096758b49f9b34066ef98b2f4b37aa/gson-2.9.0.jar"
+      resolved="com.google.code.gson:gson:2.9.0"/>
   <library
       name="androidx.browser:browser:1.5.0@aar"
       jars="/Users/zik/.gradle/caches/transforms-3/d87cef69eaa412df3c0dc284afb90352/transformed/browser-1.5.0/jars/classes.jar"

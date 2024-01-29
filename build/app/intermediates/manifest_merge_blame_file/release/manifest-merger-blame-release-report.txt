@@ -26,133 +26,132 @@
 18-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:5:9-42
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] /Users/zik/.gradle/caches/transforms-3/86921c9a8ae0d631920d76ee80dd5b5f/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
-20        android:debuggable="true"
-21        android:icon="@mipmap/app_icon2"
-21-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:6:9-41
-22        android:label="expresspay_sample"
-22-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:4:9-42
-23        android:supportsRtl="true"
-23-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:11:9-35
-24        android:theme="@style/Theme.ExpresspayAndroidSDK" >
-24-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:12:9-58
-25        <activity
-25-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:7:9-27:20
-26            android:name="com.expresspay.sample.expresspay_sample.MainActivity"
-26-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:8:13-41
-27            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-27-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:12:13-163
-28            android:exported="true"
-28-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:9:13-36
-29            android:hardwareAccelerated="true"
-29-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:13:13-47
-30            android:launchMode="singleTop"
-30-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:10:13-43
-31            android:theme="@style/LaunchTheme"
-31-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:11:13-47
-32            android:windowSoftInputMode="adjustResize" >
-32-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:14:13-55
-33
-34            <!--
-35                 Specifies an Android theme to apply to this Activity as soon as
-36                 the Android process has started. This theme is visible to the user
-37                 while the Flutter UI initializes. After that, this theme continues
-38                 to determine the Window background behind the Flutter UI.
-39            -->
-40            <meta-data
-40-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:19:13-22:17
-41                android:name="io.flutter.embedding.android.NormalTheme"
-41-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:20:15-70
-42                android:resource="@style/NormalTheme" />
-42-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:21:15-52
-43
-44            <intent-filter>
-44-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:23:13-26:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:24:17-68
-45-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:24:25-66
-46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:25:17-76
-47-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:25:27-74
-48            </intent-filter>
-49        </activity>
-50        <!--
-51             Don't delete the meta-data below.
-52             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
-53        -->
-54        <meta-data
-54-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:30:9-32:33
-55            android:name="flutterEmbedding"
-55-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:31:13-44
-56            android:value="2" />
-56-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:32:13-30
-57
-58        <activity
-58-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:14:9-17:20
-59            android:name="com.expresspay.sdk.ExpressPayHomeActivity_"
-59-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:15:13-70
-60            android:label="SDK Home" >
-60-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:16:13-37
-61        </activity>
-62        <activity
-62-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:18:9-21:52
-63            android:name="com.expresspay.sdk.views.expresscardpay.ExpressCardPayActivity"
-63-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:19:13-90
-64            android:label="Express Card Pay"
-64-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:20:13-45
-65            android:screenOrientation="portrait" />
-65-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:21:13-49
-66        <activity
-66-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:22:9-25:52
-67            android:name="com.expresspay.sdk.views.expresscardpay.ExpressCardDetailsActivity"
-67-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:23:13-94
-68            android:label="Express Card Pay"
-68-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:24:13-45
-69            android:screenOrientation="portrait" />
-69-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:25:13-49
-70        <activity
-70-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:26:9-29:52
-71            android:name="com.expresspay.sdk.views.expresscardpay.ExpresspaySaleWebRedirectActivity"
-71-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:27:13-101
-72            android:label="Bank Verification"
-72-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:28:13-46
-73            android:screenOrientation="portrait" />
-73-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:29:13-49
-74
-75        <uses-library
-75-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
-76            android:name="androidx.window.extensions"
-76-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
-77            android:required="false" />
-77-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
-78        <uses-library
-78-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
-79            android:name="androidx.window.sidecar"
-79-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
-80            android:required="false" />
-80-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
-81
-82        <provider
-82-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-83            android:name="androidx.startup.InitializationProvider"
-83-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
-84            android:authorities="com.expresspay.sample.androidx-startup"
-84-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
-85            android:exported="false" >
-85-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
-86            <meta-data
-86-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-87                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-87-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
-88                android:value="androidx.startup" />
-88-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
-89            <meta-data
-89-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zik/.gradle/caches/transforms-3/face6201a46f738f50acaf6eba84980a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-90                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-90-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zik/.gradle/caches/transforms-3/face6201a46f738f50acaf6eba84980a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-91                android:value="androidx.startup" />
-91-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zik/.gradle/caches/transforms-3/face6201a46f738f50acaf6eba84980a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-92        </provider>
-93    </application>
-94
-95</manifest>
+20        android:icon="@mipmap/app_icon2"
+20-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:6:9-41
+21        android:label="expresspay_sample"
+21-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:4:9-42
+22        android:supportsRtl="true"
+22-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:11:9-35
+23        android:theme="@style/Theme.ExpresspayAndroidSDK" >
+23-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:12:9-58
+24        <activity
+24-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:7:9-27:20
+25            android:name="com.expresspay.sample.expresspay_sample.MainActivity"
+25-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:8:13-41
+26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+26-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:12:13-163
+27            android:exported="true"
+27-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:9:13-36
+28            android:hardwareAccelerated="true"
+28-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:13:13-47
+29            android:launchMode="singleTop"
+29-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:10:13-43
+30            android:theme="@style/LaunchTheme"
+30-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:11:13-47
+31            android:windowSoftInputMode="adjustResize" >
+31-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:14:13-55
+32
+33            <!--
+34                 Specifies an Android theme to apply to this Activity as soon as
+35                 the Android process has started. This theme is visible to the user
+36                 while the Flutter UI initializes. After that, this theme continues
+37                 to determine the Window background behind the Flutter UI.
+38            -->
+39            <meta-data
+39-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:19:13-22:17
+40                android:name="io.flutter.embedding.android.NormalTheme"
+40-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:20:15-70
+41                android:resource="@style/NormalTheme" />
+41-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:21:15-52
+42
+43            <intent-filter>
+43-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:23:13-26:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:24:17-68
+44-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:24:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:25:17-76
+46-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:25:27-74
+47            </intent-filter>
+48        </activity>
+49        <!--
+50             Don't delete the meta-data below.
+51             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+52        -->
+53        <meta-data
+53-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:30:9-32:33
+54            android:name="flutterEmbedding"
+54-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:31:13-44
+55            android:value="2" />
+55-->/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/android/app/src/main/AndroidManifest.xml:32:13-30
+56
+57        <activity
+57-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:14:9-17:20
+58            android:name="com.expresspay.sdk.ExpressPayHomeActivity_"
+58-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:15:13-70
+59            android:label="SDK Home" >
+59-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:16:13-37
+60        </activity>
+61        <activity
+61-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:18:9-21:52
+62            android:name="com.expresspay.sdk.views.expresscardpay.ExpressCardPayActivity"
+62-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:19:13-90
+63            android:label="Express Card Pay"
+63-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:20:13-45
+64            android:screenOrientation="portrait" />
+64-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:21:13-49
+65        <activity
+65-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:22:9-25:52
+66            android:name="com.expresspay.sdk.views.expresscardpay.ExpressCardDetailsActivity"
+66-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:23:13-94
+67            android:label="Express Card Pay"
+67-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:24:13-45
+68            android:screenOrientation="portrait" />
+68-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:25:13-49
+69        <activity
+69-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:26:9-29:52
+70            android:name="com.expresspay.sdk.views.expresscardpay.ExpresspaySaleWebRedirectActivity"
+70-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:27:13-101
+71            android:label="Bank Verification"
+71-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:28:13-46
+72            android:screenOrientation="portrait" />
+72-->[com.github.ExpresspaySa:expresspay-android-sdk-code:latest-SNAPSHOT] /Users/zik/.gradle/caches/transforms-3/0dd6c88903136f75b4cff6e04c24778c/transformed/jetified-expresspay-android-sdk-code-latest-SNAPSHOT/AndroidManifest.xml:29:13-49
+73
+74        <uses-library
+74-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+75            android:name="androidx.window.extensions"
+75-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+76            android:required="false" />
+76-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+77        <uses-library
+77-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+78            android:name="androidx.window.sidecar"
+78-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+79            android:required="false" />
+79-->[androidx.window:window:1.0.0-beta04] /Users/zik/.gradle/caches/transforms-3/c042285dd3bc548fe00b96e1fb869459/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+80
+81        <provider
+81-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+82            android:name="androidx.startup.InitializationProvider"
+82-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+83            android:authorities="com.expresspay.sample.androidx-startup"
+83-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+84            android:exported="false" >
+84-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+85            <meta-data
+85-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+86                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+86-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+87                android:value="androidx.startup" />
+87-->[androidx.emoji2:emoji2:1.2.0] /Users/zik/.gradle/caches/transforms-3/b1f147c09774f06a6973260ff1129f33/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+88            <meta-data
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zik/.gradle/caches/transforms-3/face6201a46f738f50acaf6eba84980a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+89                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+89-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zik/.gradle/caches/transforms-3/face6201a46f738f50acaf6eba84980a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+90                android:value="androidx.startup" />
+90-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zik/.gradle/caches/transforms-3/face6201a46f738f50acaf6eba84980a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+91        </provider>
+92    </application>
+93
+94</manifest>
