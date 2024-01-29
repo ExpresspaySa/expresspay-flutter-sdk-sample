@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_dark_highlighted_text.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_dark_highlighted_text.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_default_color_primary_text.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_default_color_primary_text.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_dark_default_color_primary_text.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_dark_default_color_primary_text.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_default_color_secondary_text.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_highlighted_text.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_highlighted_text.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_primary_text_disable_only.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_hint_foreground.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_hint_foreground.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_dark_hint_foreground.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_dark_hint_foreground.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml"
+    }
+]

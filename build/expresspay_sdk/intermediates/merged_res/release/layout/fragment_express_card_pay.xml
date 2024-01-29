@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/footer"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/linearLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.7" />
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="4">
+
+                    <com.expresspay.sdk.views.expresscardpay.creditcardview.CreditCardView
+                        android:id="@+id/card"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        app:cardCvv=""
+                        app:cardExpiry=""
+                        app:cardExpiryLabel="Expiry"
+                        app:cardHolder=""
+                        app:cardHolderLabel="Holder"
+                        app:cardNumber=""
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintDimensionRatio="1.5:1"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.7" />
+
+            </LinearLayout>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:id="@+id/linearLayoutCompat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+                tools:layout_editor_absoluteX="20dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal"
+                    android:padding="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/lblAmount"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="12.00"
+                        android:textColor="#000"
+                        android:textSize="30sp"
+                        android:textStyle="bold" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/lblCurrency"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:layout_marginEnd="5dp"
+                        android:gravity="center"
+                        android:text="@string/sar"
+                        android:textColor="#000"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginTop="20dp"
+                    android:background="#B8B8B8" />
+
+
+                <EditText
+                    android:id="@+id/txtName"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="#00000000"
+                    android:hint="@string/card_holder"
+                    android:inputType="textPersonName"
+                    android:maxLength="20"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="#B8B8B8" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:paddingHorizontal="5dp"
+                        android:id="@+id/txtNumber"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="3"
+                        android:background="#00000000"
+                        android:hint="@string/card_number"
+                        android:inputType="number"
+                        android:maxLength="19"
+                        android:textSize="13sp" />
+
+                    <View
+                        android:layout_width="1px"
+                        android:layout_height="30dp"
+                        android:background="#B8B8B8" />
+
+                    <EditText
+                        android:id="@+id/txtExpiry"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.2"
+                        android:background="#00000000"
+                        android:gravity="center"
+                        android:inputType="number"
+                        android:maxLength="5"
+                        android:textSize="13sp" />
+
+                    <View
+                        android:layout_width="1px"
+                        android:layout_height="30dp"
+                        android:background="#B8B8B8" />
+
+                    <EditText
+                        android:id="@+id/txtCVV"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="#00000000"
+                        android:gravity="center"
+                        android:inputType="number"
+                        android:maxLength="4"
+                        android:textSize="13sp" />
+
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="#B8B8B8" />
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+            <ImageView
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="center"
+                android:layout_width="90dp"
+                android:layout_height="35dp"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:background="@drawable/pci_dss_compliant" />
+
+
+            <LinearLayout
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:scaleType="centerInside"
+                    android:background="@drawable/logo_mada" />
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:scaleType="centerInside"
+                    android:background="@drawable/logo_visa" />
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:scaleType="centerInside"
+                    android:background="@drawable/logo_mastercard" />
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:scaleType="centerInside"
+                    android:background="@drawable/logo_amex" />
+
+<!--                <Space-->
+<!--                    android:layout_width="10dp"-->
+<!--                    android:layout_height="wrap_content"/>-->
+
+<!--                <ImageView-->
+<!--                    android:layout_width="40dp"-->
+<!--                    android:layout_height="40dp"-->
+<!--                    android:scaleType="centerInside"-->
+<!--                    android:background="@drawable/logo_discover" />-->
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <LinearLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:enabled="false"
+            android:id="@+id/btnPay"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/pay" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="10dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:textStyle="bold"
+                android:textSize="10sp" android:textColor="#000"
+                android:text="Powered By" />
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="20dp"
+                android:background="@drawable/powered_by_logo" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

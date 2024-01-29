@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/m3_sys_motion_easing_emphasized_decelerate.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/m3_sys_motion_easing_emphasized_decelerate.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/m3_sys_motion_easing_standard_accelerate.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/m3_sys_motion_easing_standard_accelerate.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/m3_sys_motion_easing_emphasized_accelerate.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/m3_sys_motion_easing_emphasized_accelerate.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/m3_sys_motion_easing_standard_decelerate.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/m3_sys_motion_easing_standard_decelerate.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/m3_sys_motion_easing_emphasized.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/m3_sys_motion_easing_emphasized.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/m3_sys_motion_easing_linear.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/m3_sys_motion_easing_linear.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/interpolator-v21/m3_sys_motion_easing_standard.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-material-1.8.0-17:/interpolator-v21/m3_sys_motion_easing_standard.xml"
+    }
+]

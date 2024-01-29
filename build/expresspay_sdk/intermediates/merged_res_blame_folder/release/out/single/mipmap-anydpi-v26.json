@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/mipmap-anydpi-v26/_ic_launcher.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/mipmap-anydpi-v26/_ic_launcher.xml"
+    },
+    {
+        "merged": "com.expresspay.fluttersdk.expresspay_sdk-merged_res-38:/mipmap-anydpi-v26/_ic_launcher_round.xml",
+        "source": "com.expresspay.fluttersdk.expresspay_sdk-jetified-expresspay-android-sdk-code-latest-SNAPSHOT-1:/mipmap-anydpi-v26/_ic_launcher_round.xml"
+    }
+]

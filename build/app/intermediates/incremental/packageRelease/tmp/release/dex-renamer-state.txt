@@ -1,0 +1,7 @@
+#Mon Jan 29 19:34:46 AST 2024
+base.1=/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/build/app/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Volumes/Data/Projects/Expresspay/Flutter/expresspay-flutter-sdk-sample/build/app/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
