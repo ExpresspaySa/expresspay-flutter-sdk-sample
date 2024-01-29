@@ -101,10 +101,10 @@ packages:
     dependency: "direct main"
     description:
       name: expresspay_sdk
-      sha256: caa02b320fb8faa1289f9c71525ebfcbaa31a95c71ba0b6d51d892d6b0bec202
+      sha256: "926ae5838ebfddd27795c8052bedd706f71c49a15bc953bbb6fae68dc1e0b794"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.0"
+    version: "2.1.1"
   fake_async:
     dependency: transitive
     description:

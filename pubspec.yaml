@@ -47,7 +47,7 @@ dependencies:
   intl: ^0.17.0
   shared_preferences: ^2.0.20
 
-  expresspay_sdk: ^2.0.9
+  expresspay_sdk: ^2.1.1
 #  expresspay_sdk:
 #    path: ../expresspay-flutter-sdk
 
